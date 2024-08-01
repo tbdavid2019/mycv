@@ -71,7 +71,7 @@ export const RESUME_DATA = {
       link: "#",
       badges: ["Remote"],
       title: "資訊開發 CTO",
-      logo: minimal,
+      logo: Minimal,
       start: "2024",
       end: null,
       description:
@@ -82,7 +82,7 @@ export const RESUME_DATA = {
       link: "#",
       badges: ["Remote"],
       title: "軟體開發主管",
-      logo: minimal,
+      logo: Minimal,
       start: "2022",
       end: "2023",
       description:
@@ -93,7 +93,7 @@ export const RESUME_DATA = {
       link: "#",
       badges: [],
       title: "專案管理主管",
-      logo: minimal,
+      logo: Minimal,
       start: "2020",
       end: "2021",
       description:
@@ -104,7 +104,7 @@ export const RESUME_DATA = {
       link: "#",
       badges: [],
       title: "總經理/顧問",
-      logo: minimal,
+      logo: Minimal,
       start: "2020",
       end: "2021",
       description:
@@ -115,7 +115,7 @@ export const RESUME_DATA = {
       link: "#",
       badges: [],
       title: "總經理",
-      logo: minimal,
+      logo: Minimal,
       start: "2014",
       end: "2018",
       description:
