@@ -150,7 +150,7 @@ export const RESUME_DATA = {
       ],
       description:
         "負責Kubernetes及其他開發基礎建設的建立與維護，支持區塊鏈遊戲Gamefi專案。",
-      logo: NLULogo,
+      logo: Minimal,
       link: {
         label: "github.com",
         href: "#",
@@ -161,7 +161,7 @@ export const RESUME_DATA = {
       techStack: ["Node.js", "Unreal Engine", "VR"],
       description:
         "開發VR頭盔專用遊戲，相容於Quest2, PICO4和HTC Vive。後端採用Node.js API對前端Unreal Engine。",
-      logo: VRLogo,
+      logo: Minimal,
       link: {
         label: "github.com",
         href: "#",
