@@ -69,7 +69,7 @@ export const RESUME_DATA = {
     {
       company: "Confidential Company",
       link: "#",
-      badges: ["Remote"],
+      badges: [],
       title: "資訊開發 CTO",
       logo: Minimal,
       start: "2024",
@@ -80,7 +80,7 @@ export const RESUME_DATA = {
     {
       company: "南瓜虛擬科技股份有限公司",
       link: "#",
-      badges: ["Remote"],
+      badges: [],
       title: "軟體開發主管",
       logo: Minimal,
       start: "2022",
