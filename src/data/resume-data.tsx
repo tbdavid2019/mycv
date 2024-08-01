@@ -1,11 +1,21 @@
 import {
-  AWSLogo,
-  HybrisLogo,
-  GPTLogo,
-  VRLogo,
-  NLULogo,
-  VueLogo,
-  JenkinsLogo,
+  AmbitLogo,
+  BarepapersLogo,
+  BimLogo,
+  CDGOLogo,
+  ClevertechLogo,
+  ConsultlyLogo,
+  EvercastLogo,
+  Howdy,
+  JarockiMeLogo,
+  JojoMobileLogo,
+  Minimal,
+  MobileVikingsLogo,
+  MonitoLogo,
+  NSNLogo,
+  ParabolLogo,
+  TastyCloudLogo,
+  YearProgressLogo,
 } from "@/images/logos";
 import { GitHubIcon, LinkedInIcon, XIcon } from "@/components/icons";
 
