@@ -31,8 +31,8 @@ export const RESUME_DATA = {
   avatarUrl: "/me.png",
   personalWebsiteUrl: "#",
   contact: {
-    email: "104@glsoft.ai",
-    tel: "0901-321-884",
+    email: "104@david888.com",
+    tel: "0906-541-100",
     social: [
       {
         name: "GitHub",
@@ -41,7 +41,7 @@ export const RESUME_DATA = {
       },
       {
         name: "LinkedIn",
-        url: "#",
+        url: "https://www.linkedin.com/in/david11111/",
         icon: LinkedInIcon,
       },
       {
@@ -71,7 +71,7 @@ export const RESUME_DATA = {
       link: "#",
       badges: ["Remote"],
       title: "資訊開發 CTO",
-      logo: AWSLogo,
+      logo: minimal,
       start: "2024",
       end: null,
       description:
@@ -82,7 +82,7 @@ export const RESUME_DATA = {
       link: "#",
       badges: ["Remote"],
       title: "軟體開發主管",
-      logo: VRLogo,
+      logo: minimal,
       start: "2022",
       end: "2023",
       description:
@@ -93,7 +93,7 @@ export const RESUME_DATA = {
       link: "#",
       badges: [],
       title: "專案管理主管",
-      logo: HybrisLogo,
+      logo: minimal,
       start: "2020",
       end: "2021",
       description:
@@ -104,7 +104,7 @@ export const RESUME_DATA = {
       link: "#",
       badges: [],
       title: "總經理/顧問",
-      logo: GPTLogo,
+      logo: minimal,
       start: "2020",
       end: "2021",
       description:
@@ -115,7 +115,7 @@ export const RESUME_DATA = {
       link: "#",
       badges: [],
       title: "總經理",
-      logo: JenkinsLogo,
+      logo: minimal,
       start: "2014",
       end: "2018",
       description:
