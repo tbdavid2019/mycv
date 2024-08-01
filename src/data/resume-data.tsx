@@ -20,8 +20,8 @@ import {
 import { GitHubIcon, LinkedInIcon, XIcon } from "@/components/icons";
 
 export const RESUME_DATA = {
-  name: "Chia (江佳澄)",
-  initials: "CJ",
+  name: "Chia Cheng Chiang",
+  initials: "David C",
   location: "Kaohsiung, Taiwan",
   locationLink: "https://www.google.com/maps/place/Kaohsiung",
   about:
@@ -46,7 +46,7 @@ export const RESUME_DATA = {
       },
       {
         name: "X",
-        url: "#",
+        url: "https://linktr.ee/david.chiang",
         icon: XIcon,
       },
     ],
@@ -149,7 +149,7 @@ export const RESUME_DATA = {
         "Blockchain",
       ],
       description:
-        "負責Kubernetes及其他開發基礎建設的建立與維護，支持區塊鏈遊戲Gamefi專案。",
+        "負責Kubernetes及其他開發基礎建設的建立與維護，支持區塊鏈遊戲Gamefi專案，十萬級別。",
       logo: Minimal,
       link: {
         label: "github.com",
@@ -157,13 +157,46 @@ export const RESUME_DATA = {
       },
     },
     {
-      title: "VR遊戲專案",
-      techStack: ["Node.js", "Unreal Engine", "VR"],
+      title: "VR遊戲專案 Quantaar",
+      techStack: ["Meta Oculus", "Unreal Engine", "VR"],
       description:
         "開發VR頭盔專用遊戲，相容於Quest2, PICO4和HTC Vive。後端採用Node.js API對前端Unreal Engine。",
       logo: Minimal,
       link: {
-        label: "github.com",
+        label: "VR",
+        href: "#",
+      },
+    },
+    {
+      title: "VR體驗分發平台",
+      techStack: ["Unity", "VR"],
+      description:
+        "這專案多用途 已經用於以下申請與應用 Unframed App , 教育部「112-113 年5G 新科技學習示範學校計畫 」",
+      logo: Minimal,
+      link: {
+        label: "VR",
+        href: "#",
+      },
+    },
+    {
+      title: "屈臣氏電商",
+      techStack: ["SAP Commerce Cloud", "Hybris"],
+      description:
+        "這專案長期服務總部的資訊開發與維護案, 服務多國BU",
+      logo: Minimal,
+      link: {
+        label: "SAP Commerce Cloud solution",
+        href: "#",
+      },
+    },
+    {
+      title: "美國家具Bobs",
+      techStack: ["SAP Commerce Cloud", "Hybris"],
+      description:
+        "這專案長期服務總部的資訊開發與維護案, 服務美國",
+      logo: Minimal,
+      link: {
+        label: "SAP Commerce Cloud solution",
         href: "#",
       },
     },
