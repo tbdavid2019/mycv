@@ -199,6 +199,26 @@ export const RESUME_DATA = {
         label: "SAP Commerce Cloud solution",
         href: "#",
       },
+     {
+      title: "辦公室現場成員是否要到辦公室或遠端",
+      techStack: ["telegram", "bot", "slack", "Line"],
+      description:
+        "為了照顧同事，擔任總監期間有規定若氣象局發布大雨特報則不用進辦公室，做出一個機器人通知到同事的IM是否要進辦公室的建議",
+      logo: Minimal,
+      link: {
+        label: "Weather_Alert_Bot",
+        href: "https://github.com/tbdavid2019/multi-platform-weather-alert",
+      }, 
+     {
+      title: "K8s POC | Kyma to Daocloud",
+      techStack: ["k8s","kyma"],
+      description:
+        "協助團隊做Daocloud POC",
+      logo: Minimal,
+      link: {
+        label: "kubernetes",
+        href: "#",
+      },       
     },
   ],
 } as const;
