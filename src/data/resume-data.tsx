@@ -192,14 +192,14 @@ export const RESUME_DATA = {
     {
       title: "美國家具Bobs",
       techStack: ["SAP Commerce Cloud", "Hybris"],
-      description:
-        "這專案長期服務總部的資訊開發與維護案, 服務美國",
+      description: "這專案長期服務總部的資訊開發與維護案, 服務美國",
       logo: Minimal,
       link: {
         label: "SAP Commerce Cloud solution",
         href: "#",
       },
-     {
+    }, 
+    {
       title: "辦公室現場成員是否要到辦公室或遠端",
       techStack: ["telegram", "bot", "slack", "Line"],
       description:
@@ -208,8 +208,9 @@ export const RESUME_DATA = {
       link: {
         label: "Weather_Alert_Bot",
         href: "https://github.com/tbdavid2019/multi-platform-weather-alert",
-      }, 
-     {
+      },
+    }, 
+    {
       title: "K8s POC | Kyma to Daocloud",
       techStack: ["k8s","kyma"],
       description:
