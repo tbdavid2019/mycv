@@ -138,88 +138,103 @@ export const RESUME_DATA = {
     "Git",
     "Jenkins",
   ],
-  projects: [
+ projects: [
     {
-      title: "區塊鏈遊戲專案 (AWS-SRE-DevOps)",
-      techStack: [
+      "title": "區塊鏈遊戲專案 (AWS-SRE-DevOps)",
+      "techStack": [
         "Kubernetes",
         "Node.js",
         "AWS",
         "DevOps",
-        "Blockchain",
+        "Blockchain"
       ],
-      description:
-        "負責Kubernetes及其他開發基礎建設的建立與維護，支持區塊鏈遊戲Gamefi專案，十萬級別。",
-      logo: Minimal,
-      link: {
-        label: "github.com",
-        href: "#",
-      },
+      "description": "負責Kubernetes及其他開發基礎建設的建立與維護，支持區塊鏈遊戲Gamefi專案，十萬級別。",
+      "logo": "Minimal",
+      "link": {
+        "label": "github.com",
+        "href": "#"
+      }
     },
     {
-      title: "VR遊戲專案 Quantaar",
-      techStack: ["Meta Oculus", "Unreal Engine", "VR"],
-      description:
-        "開發VR頭盔專用遊戲，相容於Quest2, PICO4和HTC Vive。後端採用Node.js API對前端Unreal Engine。",
-      logo: Minimal,
-      link: {
-        label: "VR",
-        href: "#",
-      },
+      "title": "VR遊戲專案 Quantaar",
+      "techStack": [
+        "Meta Oculus",
+        "Unreal Engine",
+        "VR"
+      ],
+      "description": "開發VR頭盔專用遊戲，相容於Quest2, PICO4和HTC Vive。後端採用Node.js API對前端Unreal Engine。",
+      "logo": "Minimal",
+      "link": {
+        "label": "VR",
+        "href": "#"
+      }
     },
     {
-      title: "VR體驗分發平台",
-      techStack: ["Unity", "VR"],
-      description:
-        "這專案多用途 已經用於以下申請與應用 Unframed App , 教育部「112-113 年5G 新科技學習示範學校計畫 」",
-      logo: Minimal,
-      link: {
-        label: "VR",
-        href: "#",
-      },
+      "title": "VR體驗分發平台",
+      "techStack": [
+        "Unity",
+        "VR"
+      ],
+      "description": "這專案多用途 已經用於以下申請與應用 Unframed App , 教育部「112-113 年5G 新科技學習示範學校計畫 」",
+      "logo": "Minimal",
+      "link": {
+        "label": "VR",
+        "href": "#"
+      }
     },
     {
-      title: "屈臣氏電商",
-      techStack: ["SAP Commerce Cloud", "Hybris"],
-      description:
-        "這專案長期服務總部的資訊開發與維護案, 服務多國BU",
-      logo: Minimal,
-      link: {
-        label: "SAP Commerce Cloud solution",
-        href: "#",
-      },
+      "title": "屈臣氏電商",
+      "techStack": [
+        "SAP Commerce Cloud",
+        "Hybris"
+      ],
+      "description": "這專案長期服務總部的資訊開發與維護案, 服務多國BU",
+      "logo": "Minimal",
+      "link": {
+        "label": "SAP Commerce Cloud solution",
+        "href": "#"
+      }
     },
     {
-      title: "美國家具Bobs",
-      techStack: ["SAP Commerce Cloud", "Hybris"],
-      description: "這專案長期服務總部的資訊開發與維護案, 服務美國",
-      logo: Minimal,
-      link: {
-        label: "SAP Commerce Cloud solution",
-        href: "#",
-      },
-    }, 
-    {
-      title: "辦公室現場成員是否要到辦公室或遠端",
-      techStack: ["telegram", "bot", "slack", "Line"],
-      description:
-        "為了照顧同事，擔任總監期間有規定若氣象局發布大雨特報則不用進辦公室，做出一個機器人通知到同事的IM是否要進辦公室的建議",
-      logo: Minimal,
-      link: {
-        label: "Weather_Alert_Bot",
-        href: "https://github.com/tbdavid2019/multi-platform-weather-alert",
-      },
-    }, 
-    {
-      title: "K8s POC | Kyma to Daocloud",
-      techStack: ["k8s","kyma"],
-      description:
-        "協助團隊做Daocloud POC",
-      logo: Minimal,
-      link: {
-        label: "kubernetes",
-        href: "#",
-      },       
+      "title": "美國家具Bobs",
+      "techStack": [
+        "SAP Commerce Cloud",
+        "Hybris"
+      ],
+      "description": "這專案長期服務總部的資訊開發與維護案, 服務美國",
+      "logo": "Minimal",
+      "link": {
+        "label": "SAP Commerce Cloud solution",
+        "href": "#"
+      }
     },
+    {
+      "title": "辦公室現場成員是否要到辦公室或遠端",
+      "techStack": [
+        "telegram",
+        "bot",
+        "slack",
+        "Line"
+      ],
+      "description": "為了照顧同事，擔任總監期間有規定若氣象局發布大雨特報則不用進辦公室，做出一個機器人通知到同事的IM是否要進辦公室的建議",
+      "logo": "Minimal",
+      "link": {
+        "label": "Weather_Alert_Bot",
+        "href": "https://github.com/tbdavid2019/multi-platform-weather-alert"
+      }
+    },
+    {
+      "title": "K8s POC | Kyma to Daocloud",
+      "techStack": [
+        "k8s",
+        "kyma"
+      ],
+      "description": "協助團隊做Daocloud POC",
+      "logo": "Minimal",
+      "link": {
+        "label": "kubernetes",
+        "href": "#"
+      }
+    }
   ],
 } as const;
