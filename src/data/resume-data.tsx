@@ -209,7 +209,7 @@ export const RESUME_DATA = {
       }
     },
     {
-      "title": "辦公室現場成員是否要到辦公室或遠端",
+      "title": "辦公室現場成員是否要到辦公室|遠端提醒機器人",
       "techStack": [
         "telegram",
         "bot",
@@ -234,6 +234,71 @@ export const RESUME_DATA = {
       "link": {
         "label": "kubernetes",
         "href": "#"
+      }
+    },
+    {
+      "title": "telegram bot|總結機器人 ",
+      "techStack": [
+        "telegram bot",
+        "python"
+      ],
+      "description": "可以把Youtube URL 網頁 一段文字做個總結摘要重點整理",
+      "logo": "Minimal",
+      "link": {
+        "label": "bot",
+        "href": "https://github.com/tbdavid2019/Telegram-bot-summary"
+      }
+    },
+    {
+      "title": "telegram bot|台股機器人 ",
+      "techStack": [
+        "telegram bot",
+        "C#"
+      ],
+      "description": "台灣股票報價",
+      "logo": "Minimal",
+      "link": {
+        "label": "bot",
+        "href": "https://t.me/oli_billion_bot"
+      }
+    },
+    {
+      "title": "telegram bot| LLM和工具機器人|Serverless ",
+      "techStack": [
+        "telegram bot",
+        "javascript"
+      ],
+      "description": "Claude,gpt-4o,台股,美股,字典",
+      "logo": "Minimal",
+      "link": {
+        "label": "bot",
+        "href": "https://github.com/tbdavid2019/Telegram-bot-Workers"
+      }
+    },
+    {
+      "title": "telegram bot| LLM和工具機器人 ",
+      "techStack": [
+        "telegram bot",
+        "python"
+      ],
+      "description": "GPT 自然語言機器人",
+      "logo": "Minimal",
+      "link": {
+        "label": "bot",
+        "href": "https://t.me/oli_cerebellum_bot"
+      }
+    },
+    {
+      "title": "NUEIP 上下班自動打卡小腳本",
+      "techStack": [
+        "shell",
+        "HRM"
+      ],
+      "description": "上下班自動打卡小腳本",
+      "logo": "Minimal",
+      "link": {
+        "label": "shell",
+        "href": "https://github.com/tbdavid2019/nueip_crack"
       }
     }
   ],
