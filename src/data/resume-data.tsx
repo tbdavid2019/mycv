@@ -300,6 +300,58 @@ export const RESUME_DATA = {
         "label": "shell",
         "href": "https://github.com/tbdavid2019/nueip_crack"
       }
+    },
+    {
+      "title": "LINE BOT|機器人天氣占卜與LLM",
+      "techStack": [
+        "shell",
+        "HRM"
+      ],
+      "description": "提供天氣警報、占卜、LLM功能",
+      "logo": "Minimal",
+      "link": {
+        "label": "shell",
+        "href": "https://liff.line.me/1645278921-kWRPP32q/?accountId=728wsrjq"
+      }
+    },
+    {
+      "title": "解答之書 api",
+      "techStack": [
+        "shell",
+        "HRM"
+      ],
+      "description": "提供解答之書 api 功能 中英文版",
+      "logo": "Minimal",
+      "link": {
+        "label": "shell",
+        "href": "http://answerbook.david888.com/"
+      }
+    },
+    {
+      "title": "隨機唐詩 api",
+      "techStack": [
+        "shell",
+        "HRM"
+      ],
+      "description": "提供唐詩 api 功能",
+      "logo": "Minimal",
+      "link": {
+        "label": "shell",
+        "href": "http://answerbook.david888.com/TangPoetry"
+      }
+    },
+    {
+      "title": "隨機淺草籤 API",
+      "techStack": [
+        "shell",
+        "HRM"
+      ],
+      "description": "隨機淺草籤API 功能",
+      "logo": "Minimal",
+      "link": {
+        "label": "shell",
+        "href": "http://answerbook.david888.com/TempleOracleJP"
+      }
     }
   ],
 } as const;
