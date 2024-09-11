@@ -310,7 +310,7 @@ export const RESUME_DATA = {
       "description": "提供天氣警報、占卜、LLM功能",
       "logo": "Minimal",
       "link": {
-        "label": "shell",
+        "label": "Line",
         "href": "https://liff.line.me/1645278921-kWRPP32q/?accountId=728wsrjq"
       }
     },
@@ -323,7 +323,7 @@ export const RESUME_DATA = {
       "description": "提供解答之書 api 功能 中英文版",
       "logo": "Minimal",
       "link": {
-        "label": "shell",
+        "label": "api",
         "href": "http://answerbook.david888.com/"
       }
     },
@@ -336,7 +336,7 @@ export const RESUME_DATA = {
       "description": "提供唐詩 api 功能",
       "logo": "Minimal",
       "link": {
-        "label": "shell",
+        "label": "api",
         "href": "http://answerbook.david888.com/TangPoetry"
       }
     },
@@ -349,8 +349,47 @@ export const RESUME_DATA = {
       "description": "隨機淺草籤API 功能",
       "logo": "Minimal",
       "link": {
-        "label": "shell",
+        "label": "api",
         "href": "http://answerbook.david888.com/TempleOracleJP"
+      }
+    },
+    {
+      "title": "GRE 單字 API:",
+      "techStack": [
+        "shell",
+        "HRM"
+      ],
+      "description": "GRE 單字 API:",
+      "logo": "Minimal",
+      "link": {
+        "label": "api",
+        "href": "http://answerbook.david888.com/greWord"
+      }
+    },
+    {
+      "title": "Chrome Extension- 小濃縮 (Quick Summary):",
+      "techStack": [
+        "shell",
+        "HRM"
+      ],
+      "description": "Chrome Extension- 小濃縮 (Quick Summary):",
+      "logo": "Minimal",
+      "link": {
+        "label": "Chrome Extension",
+        "href": "https://chromewebstore.google.com/detail/%E5%B0%8F%E6%BF%83%E7%B8%AE-quick-summary/ilgegilcecmgnomacgjiklmhfgioekof?authuser=0&hl=zh-TW"
+      }
+    },
+    {
+      "title": "LINE BOT| 小濃縮",
+      "techStack": [
+        "shell",
+        "HRM"
+      ],
+      "description": "LINE BOT| 小濃縮",
+      "logo": "Minimal",
+      "link": {
+        "label": "Line",
+        "href": "https://liff.line.me/1645278921-kWRPP32q/?accountId=032trcev"
       }
     }
   ],
