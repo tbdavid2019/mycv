@@ -391,6 +391,19 @@ export const RESUME_DATA = {
         "label": "Line",
         "href": "https://liff.line.me/1645278921-kWRPP32q/?accountId=032trcev"
       }
+    },
+    {
+      "title": "Chrome Extension- Random GRE Word 隨機單字複習器",
+      "techStack": [
+        "shell",
+        "HRM"
+      ],
+      "description": "Chrome Extension- Random GRE Word 隨機單字複習器",
+      "logo": "Minimal",
+      "link": {
+        "label": "Chrome Extension",
+        "href": "https://chromewebstore.google.com/detail/random-gre-word-%E9%9A%A8%E6%A9%9F%E5%96%AE%E5%AD%97%E8%A4%87%E7%BF%92%E5%99%A8/mpbkdjjihhjjhmlnchkbpgfclhhdblap?hl=zh-TW&utm_source=ext_sidebar"
+      }
     }
   ],
 } as const;
