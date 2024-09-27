@@ -252,7 +252,7 @@ export const RESUME_DATA = {
     {
       "title": "telegram bot|台股機器人 ",
       "techStack": [
-        "telegram bot",
+        "playwright",
         "C#"
       ],
       "description": "台灣股票報價",
@@ -265,7 +265,7 @@ export const RESUME_DATA = {
     {
       "title": "telegram bot| LLM和工具機器人|Serverless ",
       "techStack": [
-        "telegram bot",
+        "cloudflare",
         "javascript"
       ],
       "description": "Claude,gpt-4o,台股,美股,字典",
@@ -291,21 +291,21 @@ export const RESUME_DATA = {
     {
       "title": "NUEIP 上下班自動打卡小腳本",
       "techStack": [
-        "shell",
-        "HRM"
+        "curl",
+        "shell"
       ],
       "description": "上下班自動打卡小腳本",
       "logo": "Minimal",
       "link": {
-        "label": "shell",
+        "label": "HRM",
         "href": "https://github.com/tbdavid2019/nueip_crack"
       }
     },
     {
       "title": "LINE BOT|機器人天氣占卜與LLM",
       "techStack": [
-        "shell",
-        "HRM"
+        "node.js",
+        "api"
       ],
       "description": "提供天氣警報、占卜、LLM功能",
       "logo": "Minimal",
@@ -317,8 +317,8 @@ export const RESUME_DATA = {
     {
       "title": "解答之書 api",
       "techStack": [
-        "shell",
-        "HRM"
+        "node.js",
+        "api"
       ],
       "description": "提供解答之書 api 功能 中英文版",
       "logo": "Minimal",
@@ -330,8 +330,8 @@ export const RESUME_DATA = {
     {
       "title": "隨機唐詩 api",
       "techStack": [
-        "shell",
-        "HRM"
+        "node.js",
+        "api"
       ],
       "description": "提供唐詩 api 功能",
       "logo": "Minimal",
@@ -343,8 +343,8 @@ export const RESUME_DATA = {
     {
       "title": "隨機淺草籤 API",
       "techStack": [
-        "shell",
-        "HRM"
+        "node.js",
+        "api"
       ],
       "description": "隨機淺草籤API 功能",
       "logo": "Minimal",
@@ -356,8 +356,8 @@ export const RESUME_DATA = {
     {
       "title": "GRE 單字 API:",
       "techStack": [
-        "shell",
-        "HRM"
+        "node.js",
+        "api"
       ],
       "description": "GRE 單字 API:",
       "logo": "Minimal",
@@ -369,8 +369,8 @@ export const RESUME_DATA = {
     {
       "title": "Chrome Extension- 小濃縮 (Quick Summary):",
       "techStack": [
-        "shell",
-        "HRM"
+        "js",
+        "chrome extension"
       ],
       "description": "Chrome Extension- 小濃縮 (Quick Summary):",
       "logo": "Minimal",
@@ -382,8 +382,8 @@ export const RESUME_DATA = {
     {
       "title": "LINE BOT| 小濃縮",
       "techStack": [
-        "shell",
-        "HRM"
+        "python",
+        "aws"
       ],
       "description": "LINE BOT| 小濃縮",
       "logo": "Minimal",
@@ -395,14 +395,40 @@ export const RESUME_DATA = {
     {
       "title": "Chrome Extension- Random GRE Word 隨機單字複習器",
       "techStack": [
-        "shell",
-        "HRM"
+        "javascript",
+        "chrome extension"
       ],
       "description": "Chrome Extension- Random GRE Word 隨機單字複習器",
       "logo": "Minimal",
       "link": {
         "label": "Chrome Extension",
         "href": "https://chromewebstore.google.com/detail/random-gre-word-%E9%9A%A8%E6%A9%9F%E5%96%AE%E5%AD%97%E8%A4%87%E7%BF%92%E5%99%A8/mpbkdjjihhjjhmlnchkbpgfclhhdblap?hl=zh-TW&utm_source=ext_sidebar"
+      }
+    },
+    {
+      "title": "Chrome Extension- 改字體",
+      "techStack": [
+        "javascript",
+        "chrome extension"
+      ],
+      "description": "Chrome Extension- 改字體",
+      "logo": "Minimal",
+      "link": {
+        "label": "Chrome Extension",
+        "href": "https://chromewebstore.google.com/detail/%E6%94%B9%E5%AD%97%E9%AB%94-font-changer/ilmdkfomedcdolkiiagifgmgohahlmoi?authuser=0&hl=zh-TW"
+      }
+    },
+    {
+      "title": "Chrome Extension- 改字體",
+      "techStack": [
+        "javascript",
+        "chrome extension"
+      ],
+      "description": "Chrome Extension- 改字體",
+      "logo": "Minimal",
+      "link": {
+        "label": "Chrome Extension",
+        "href": "https://chromewebstore.google.com/detail/%E6%94%B9%E5%AD%97%E9%AB%94-font-changer/ilmdkfomedcdolkiiagifgmgohahlmoi?authuser=0&hl=zh-TW"
       }
     }
   ],
