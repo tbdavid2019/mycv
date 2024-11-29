@@ -419,16 +419,83 @@ export const RESUME_DATA = {
       }
     },
     {
-      "title": "Chrome Extension- 改字體",
+      "title": "Stock Predict Prophet 世界股價預測 (使用Prophet方法)",
       "techStack": [
-        "javascript",
-        "chrome extension"
+        "Huggingface",
+        "Python",
+        "AI"
       ],
-      "description": "Chrome Extension- 改字體",
+      "description": "機器學習方法去預測股價",
       "logo": "Minimal",
       "link": {
-        "label": "Chrome Extension",
-        "href": "https://chromewebstore.google.com/detail/%E6%94%B9%E5%AD%97%E9%AB%94-font-changer/ilmdkfomedcdolkiiagifgmgohahlmoi?authuser=0&hl=zh-TW"
+        "label": "Huggingface",
+        "href": " https://huggingface.co/spaces/tbdavid2019/Stock-Predict-Prophet"
+      }
+    },
+    {
+      "title": "Stock Predict Prophet 台灣股價預測 (使用LSTM方法)",
+      "techStack": [
+        "Huggingface",
+        "Python",
+        "AI"
+      ],
+      "description": "機器學習方法去預測股價",
+      "logo": "Minimal",
+      "link": {
+        "label": "Huggingface",
+        "href": " https://huggingface.co/spaces/tbdavid2019/twStock-predict"
+      }
+    },
+    {
+      "title": "GPTs | Oli家: 旅行規劃器",
+      "techStack": [
+        "Prompt",
+        "AI"
+      ],
+      "description": "旅行規劃器",
+      "logo": "Minimal",
+      "link": {
+        "label": "GPTs",
+        "href": "https://chatgpt.com/g/g-JYWDDH5q3-olijia-lu-xing-gui-hua-qi"
+      }
+    },
+    {
+      "title": "GPTs | Oli家: 市場分析報告產生器",
+      "techStack": [
+        "Prompt",
+        "AI"
+      ],
+      "description": "市場分析報告產生器",
+      "logo": "Minimal",
+      "link": {
+        "label": "GPTs",
+        "href": "https://chatgpt.com/g/g-eKXHQakNe-olijia-shi-chang-fen-xi-bao-gao-chan-sheng-qi"
+      }
+    },
+    {
+      "title": "GPTs | Oli家: 塔羅牌問事",
+      "techStack": [
+        "Prompt",
+        "AI"
+      ],
+      "description": "塔羅牌問事",
+      "logo": "Minimal",
+      "link": {
+        "label": "GPTs",
+        "href": "https://chatgpt.com/g/g-wpr0oCOgg-olijia-ta-luo-pai-wen-shi"
+      }
+    },
+    {
+      "title": "GPTs | Oli家: 慢思考CoT",
+      "techStack": [
+        "Prompt",
+        "AI"
+      ],
+      "description": "慢思考CoT",
+      "logo": "Minimal",
+      "link": {
+        "label": "GPTs",
+        "href": "https://chatgpt.com/g/g-AhPpi36JA-olijia-man-si-kao-cot"
       }
     }
   ],
